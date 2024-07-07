@@ -89,7 +89,9 @@ This is a simple Rock, Paper, Scissors game implemented in Python using the Tkin
 
 ## Screenshots
 
-![Game Interface](D:\Pictures\Screenshots\Screenshot (119).png)  *(Replace with actual screenshot path)*
+![Screenshot (119)](https://github.com/thanyarad/RPSProject/assets/159054147/bd049912-4c88-4d4b-8f93-cf3e9bd0d217)
+![Screenshot (128)](https://github.com/thanyarad/RPSProject/assets/159054147/ed6d8710-8a17-4e0b-a4c2-1c97d3932827)
+![Screenshot (129)](https://github.com/thanyarad/RPSProject/assets/159054147/456e30c3-ba47-42e8-81b4-2572d11a888e)
 
 ## Contributing
 
